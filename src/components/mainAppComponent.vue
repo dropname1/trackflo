@@ -167,7 +167,7 @@ editItem: editItemVue,
   height: 100vh;
   box-sizing: border-box;
   display: flex;
-  overflow: hidden;
+  overflow: auto;
 }
 .mainWrapper {
   margin:auto;
